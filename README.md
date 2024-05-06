@@ -9,8 +9,8 @@ import SoftwareDeveloper from 'ignacioGiacotto';
 class Bio extends SoftwareDeveloper {
   name = 'Giacotto Ignacio';
   pronouns: "he" | "him":
-  passions:'performance web', 'web development';
-  title    = 'Tecnicatura en Programación';
+  passions: 'web development', 'sports';
+  title = 'Tecnicatura en Programación';
 }
 
 class Skills extends SoftwareDeveloper {
