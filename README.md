@@ -27,7 +27,7 @@ class Skills extends SoftwareDeveloper {
 - 🌱 I’m currently searching a job as a Web Developer
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nacho-blue?style=flat&logo=Linkedin&logoColor=blue
-)](https://www.linkedin.com/in/ignaciogiacotto/)
+)](https://www.linkedin.com/in/ignacio-giacotto/)
 
 
 ---
