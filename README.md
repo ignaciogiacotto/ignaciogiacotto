@@ -20,11 +20,11 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-- I’m a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
+- Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">/ Argentinian.
   
 - :telescope: I’m currently learning SpringBoot & Angular.
 
-- 🌱 I’m currently searching a job as a Web Developer
+- 🌱 At the moment searching a job as a Web Developer
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nacho-blue?style=flat&logo=Linkedin&logoColor=blue
 )](https://www.linkedin.com/in/ignacio-giacotto/)
