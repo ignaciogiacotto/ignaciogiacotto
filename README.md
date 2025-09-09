@@ -14,15 +14,15 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = [HTML, CSS, Javascript, Java, Python];
-  databases  = ['MySQL', 'PostgreSQL', 'SQLServer'];
-  frameworks = ['SpringBoot', 'Django'];
+  languages  = [Javascript, Java, Python];
+  databases  = ['MySQL', 'PostgreSQL', 'SQLServer', 'MongoDB'];
+  frameworks = ['SpringBoot', 'Express', 'Angular', 'React'];
 }
 ```
 
 - Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">/ Argentinian.
   
-- :telescope: I’m currently learning SpringBoot & Angular.
+- :telescope: I’m currently learning Express & React.
 
 - 🌱 At the moment searching a job as a Web Developer
 
